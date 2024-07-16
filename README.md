@@ -14,4 +14,4 @@ Send custom data, read and save.
 
 
 # Server Output
-![Alt Text](images/fast-api.png)
+![Alt Text](images/fastapi.png)
