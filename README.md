@@ -11,3 +11,7 @@ See sending data from topic with kafka cli command.
 
 Send custom data, read and save.
 ![Alt Text](images/send-and-read-data.png)
+
+
+# Server Output
+![Alt Text](images/fast-api.png)
