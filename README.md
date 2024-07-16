@@ -1,7 +1,7 @@
 # data-scraping-and-kafka-topic
 
 See existing topics.
-![Alt Text](images/topic.png)
+![Alt Text](images/topic-list.png)
 
 Send data to topic with kafka cli command.
 ![Alt Text](images/producer.png)
