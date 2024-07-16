@@ -9,5 +9,5 @@ Send data to topic with kafka cli command.
 See sending data from topic with kafka cli command.
 ![Alt Text](images/consumer.png)
 
-Send custom data and read.
+Send custom data, read and save.
 ![Alt Text](images/send-and-read-data.png)
