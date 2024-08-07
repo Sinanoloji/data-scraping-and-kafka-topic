@@ -6,7 +6,7 @@ app = FastAPI()
 
 @app.get("/")
 async def data_read():
-    file = open("data/pokemon.json")
+    file = open("/app/data/pokemon.json")
     return json.load(file)
 
 if __name__ == "__main__":
