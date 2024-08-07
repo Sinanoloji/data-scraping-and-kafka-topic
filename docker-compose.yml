@@ -26,9 +26,10 @@ services:
 
   fastapi:
     build: .
-    container_name: fastapi
+    command: uvicorn src.fastapi-server:app --host 0.0.0.0
+    container_name: fastapi_server
     ports:
-      - "8080:8080"
+      - "8000:8000"
     volumes:
       - .:/app
 
